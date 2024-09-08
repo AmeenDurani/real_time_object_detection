@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements the YOLO (You Only Look Once) algorithm in realtime using a webcam.
+**coco-names used for initial testing purposes
 
 ## Features
 
